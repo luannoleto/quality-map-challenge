@@ -17,17 +17,23 @@ Durante o desafio de testes automatizados com Cypress vamos desenvolver scripts 
 
 ## Guia de instalação
 
-✅Tenha instalado em sua máquina a IDE [VsCode](https://code.visualstudio.com/download).
+✅ Tenha instalado em sua máquina a IDE [VsCode](https://code.visualstudio.com/download).
 
-✅Tenha instalado em sua máquina o Nodejs [Nodejs](https://nodejs.org/en/download).
+✅ Tenha instalado em sua máquina o Nodejs [Nodejs](https://nodejs.org/en/download).
 
-✅Com seu promp de comando execute os seguintes comandos no repositório do projeto:
+📌 Certifique-se das versões instaladas
+![Alt text](image-1.png)
 
-- Instalação do gerenciador de pacotes Node 
-📌 Comando: npm install
+📌 Com seu promp de comando execute os seguintes comandos no repositório do projeto:
 
-- Instalação do cypress
-📌 Comando: cypress install
+📌 Instalação do gerenciador de pacotes Node 
+![Alt text](image-4.png)
+
+📌 Instalação do cypress
+![Alt text](image-2.png)
+
+📌 Depois de instalado, você pode tentar abrir o Cypress novamente com o comando:
+![Alt text](image-3.png)
 
 
 ## Onde será disponibilizado essa automação de testes?
