@@ -21,19 +21,20 @@ Durante o desafio de testes automatizados com Cypress vamos desenvolver scripts 
 
 ✅ Tenha instalado em sua máquina o Nodejs [Nodejs](https://nodejs.org/en/download).
 
-📌 Certifique-se das versões instaladas
-![Alt text](image-1.png)
-
-📌 Com seu promp de comando execute os seguintes comandos no repositório do projeto:
+ Com seu promp de comando execute os seguintes comandos no repositório do projeto:
 
 📌 Instalação do gerenciador de pacotes Node 
-![Alt text](image-4.png)
+npm install -g npm
+nvm install node
 
 📌 Instalação do cypress
-![Alt text](image-2.png)
+npm install cypress --save-dev
 
-📌 Depois de instalado, você pode tentar abrir o Cypress novamente com o comando:
-![Alt text](image-3.png)
+📌 Certifique-se das versões instaladas
+node -v && npm -v
+
+📌 Depois de instalado, você pode tentar abrir o Cypress com o comando:
+npx cypress open
 
 
 ## Onde será disponibilizado essa automação de testes?
